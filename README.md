@@ -27,9 +27,9 @@ Stratum V2 Reference Implementation (SRI)
   <a href="#roadmap">Roadmap</a> •
   <a href="#contribute">Contribute</a> •
   <a href="#support">Support</a> •
-  <a href="#supporters">Supporters</a> •
   <a href="#donate">Donate</a> •
-  <a href="#donate">License</a> •
+  <a href="#supporters">Supporters</a> •
+  <a href="#license">License</a> 
 </p>
 
 ## 👋Introduction
@@ -101,12 +101,20 @@ Whether you're looking for technical support, want to contribute, or are just in
 ### 👤Individual Donations 
 If you wish to support the development and maintenance of the Stratum V2 Reference Implementation, individual donations are greatly appreciated. You can donate through OpenSats, a 501(c)(3) public charity dedicated to supporting open-source Bitcoin projects.
 
-[Donate through OpenSats]()
+[Donate through OpenSats](https://opensats.org/projects/stratumv2)
 
 ### 🏢Corporate Donations
 For corporate entities interested in providing more substantial support, such as grants to SRI contributors, please get in touch with us directly. Your support can make a significant difference in accelerating development, research, and innovation.
 
 Email us at: stratumv2@gmail.com
+
+## 🙏Supporters
+
+SRI contributors are independently, financually supported by following entities: 
+
+[![Human Rights Foundation](https://github.com/stratum-mining/stratumprotocol.org/blob/660ecc6ccd2eca82d0895cef939f4670adc6d1f4/src/.vuepress/public/assets/hrf-logo.svg)](https://hrf.org)
+[![Spiral](https://github.com/stratum-mining/stratumprotocol.org/blob/660ecc6ccd2eca82d0895cef939f4670adc6d1f4/src/.vuepress/public/assets/spiral-logo.svg)](https://spiral.xyz)
+[![OpenSats](https://github.com/stratum-mining/stratumprotocol.org/blob/660ecc6ccd2eca82d0895cef939f4670adc6d1f4/src/.vuepress/public/assets/opensats-logo.svg)](https://opensats.org/)
 
 ## 📖License
 This software is licensed under Apache 2.0 or MIT, at your option.
