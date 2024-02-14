@@ -18,9 +18,9 @@ Stratum V2 Reference Implementation (SRI)
   </a>
 </p>
 
-
 ## 💼 Table of Contents
-<p>
+
+<p align="center">
   <a href="#introduction">Introduction</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#use-cases">Use Cases</a> •
