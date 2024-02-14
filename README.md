@@ -7,23 +7,12 @@ Stratum V2 Reference Implementation (SRI)
   <br>
 </h1>
 
-<h4 align="center">SRI is a refference implementation of the Stratum V2 protocol written in Rust 🦀.<a href="http://stratumprotocol.org" target="_blank">Stratum V2 SRI</a>.</h4>
+<h4 align="center">SRI is a refference implementation of the Stratum V2 protocol written in Rust 🦀.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
-
 [![codecov](https://codecov.io/gh/stratum-mining/stratum/branch/main/graph/badge.svg)](https://codecov.io/gh/stratum-mining/stratum)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/stratumv2)
+</p>
 
 ## 💼 Table of Contents
 
@@ -33,10 +22,10 @@ Stratum V2 Reference Implementation (SRI)
   <a href="#use-cases">Use Cases</a> •
   <a href="#roadmap">Roadmap</a> •
   <a href="#contribute">Contribute</a> •
-  <a href="#support">Support</a>
-  <a href="#supporters">Supporters</a>
-  <a href="#donate">Donate</a>
-  <a href="#donate">License</a>
+  <a href="#support">Support</a> •
+  <a href="#supporters">Supporters</a> •
+  <a href="#donate">Donate</a> •
+  <a href="#donate">License</a> •
 </p>
 
 ## 👋Introduction
@@ -90,7 +79,7 @@ The goals of this project are to provide:
 
 ## 💻Contribute 
 
-If you are a developer looking to help, but you're not sure where to begin, check the [good first issue label]https://github.com/stratum-mining/stratum/labels/good%20first%20issue, which contains small pieces of work that have been specifically flagged as being friendly to new contributors.
+If you are a developer looking to help, but you're not sure where to begin, check the [good first issue label](https://github.com/stratum-mining/stratum/labels/good%20first%20issue), which contains small pieces of work that have been specifically flagged as being friendly to new contributors.
 
 Contributors looking to do something a bit more challenging, before opening a pull request, please join [our community chat](https://chat.btcpayserver.org/) or [start a GitHub discussion](https://github.com/btcpayserver/btcpayserver/discussions) to get early feedback, discuss the best ways to tackle the problem, and ensure there is no work duplication and consensus.
 
@@ -116,8 +105,9 @@ Email us at: stratumv2@gmail.com
 
 ## 📖License
 This software is licensed under Apache 2.0 or MIT, at your option.
+
 ---
 
-> [stratumprotocol.org](https://www.stratumprotocol.org) &nbsp;&middot;&nbsp;
+> Website[stratumprotocol.org](https://www.stratumprotocol.org) &nbsp;&middot;&nbsp;
 > Discord [SV2 Discord](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@Stratumv2](https://twitter.com/StratumV2)
