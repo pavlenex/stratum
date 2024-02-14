@@ -20,8 +20,7 @@ Stratum V2 Reference Implementation (SRI)
 
 
 ## 💼 Table of Contents
-
-<p align="center">
+<p>
   <a href="#introduction">Introduction</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#use-cases">Use Cases</a> •
@@ -114,5 +113,5 @@ This software is licensed under Apache 2.0 or MIT, at your option.
 ---
 
 > Website[stratumprotocol.org](https://www.stratumprotocol.org) &nbsp;&middot;&nbsp;
-> Discord [SV2 Discord](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> Discord [SV2 Discord](https://discord.gg/fsEW23wFYs) &nbsp;&middot;&nbsp;
 > Twitter [@Stratumv2](https://twitter.com/StratumV2)
