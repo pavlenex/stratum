@@ -9,10 +9,8 @@ Stratum V2 Reference Implementation (SRI)
 
 <h4 align="center">SRI is a refference implementation of the Stratum V2 protocol written in Rust 🦀.</h4>
 
-<p align="center">
 [![codecov](https://codecov.io/gh/stratum-mining/stratum/branch/main/graph/badge.svg)](https://codecov.io/gh/stratum-mining/stratum)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/stratumv2)
-</p>
 
 ## 💼 Table of Contents
 
