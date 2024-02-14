@@ -18,6 +18,9 @@ Stratum V2 Reference Implementation (SRI)
   </a>
 </p>
 
+## MSRV
+Minimum Supported Rust Version: 1.75.0
+
 ## 💼 Table of Contents
 
 <p align="center">
@@ -121,6 +124,6 @@ This software is licensed under Apache 2.0 or MIT, at your option.
 
 ---
 
-> Website[stratumprotocol.org](https://www.stratumprotocol.org) &nbsp;&middot;&nbsp;
+> Website [stratumprotocol.org](https://www.stratumprotocol.org) &nbsp;&middot;&nbsp;
 > Discord [SV2 Discord](https://discord.gg/fsEW23wFYs) &nbsp;&middot;&nbsp;
 > Twitter [@Stratumv2](https://twitter.com/StratumV2)
